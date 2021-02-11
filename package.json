@@ -12,7 +12,7 @@
     "@bower_components/angular-slip": "codecapers/angular-slip#~1.0.5",
     "@bower_components/animate.less": "machito/animate.less#*",
     "@bower_components/ng-lodash": "rockabox/ng-lodash#~0.4.0",
-    "angular": "~1.7.5",
+    "angular": "~1.8.0",
     "angular-animate": "~1.7.5",
     "angular-drag-and-drop-lists": "~1.4.0",
     "angular-flipclock": "1.0.0",
